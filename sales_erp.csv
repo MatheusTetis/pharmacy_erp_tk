@@ -1,0 +1,8 @@
+transaction_id,sale_datetime,product_id,product_name,quantity,unit_price,total_price,payment_method,employee_id,customer_id,prescription_id,is_prescription_item,discount_applied,loyalty_points_earned,store_location_id
+TRANS001,2025-05-23 10:00:00,PROD001,Paracetamol 500mg,2,5.50,11.00,Cash,EMP001,CUST101,,FALSE,0.00,10,LOC001
+TRANS002,2025-05-23 10:05:30,PROD002,Band-Aids (Assorted),1,8.75,8.75,Credit Card,EMP002,,,,,LOC002
+TRANS003,2025-05-23 10:15:10,PROD003,Amoxicillin 250mg,1,25.00,22.50,Insurance,EMP001,CUST102,PRES987,TRUE,2.50,0,LOC001
+TRANS004,2025-05-23 10:20:00,PROD004,Vitamin C 1000mg,3,12.00,36.00,Debit Card,EMP003,CUST103,,FALSE,0.00,30,LOC003
+TRANS005,2025-05-23 10:30:45,PROD005,Cough Syrup,1,15.20,15.20,Cash,EMP002,,,,,LOC002
+TRANS006,2025-05-23 10:40:00,PROD001,Paracetamol 500mg,1,5.50,5.50,Credit Card,EMP001,CUST101,,FALSE,0.00,5,LOC001
+TRANS007,2025-05-23 10:55:00,PROD006,Insulin Pen,1,85.00,80.00,Insurance,EMP003,CUST104,PRES654,TRUE,5.00,0,LOC003
